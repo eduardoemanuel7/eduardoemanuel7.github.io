@@ -6,3 +6,9 @@
     font-weight: 400;
     text-shadow: 4px 4px 0 #000;
 }
+
+.title.-second {
+
+    color: #FFF;
+    text-shadow: none;
+}
